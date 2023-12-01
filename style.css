@@ -1,0 +1,31 @@
+h1 {
+    font-size: 25px;
+    color: white;
+  }
+  
+  body {
+    background-color: rgba(0, 0, 0, 0.485);
+  }
+  
+  h2, ul, li, p, tr, td{
+    color: white;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 18px;
+  }
+
+  
+  table {
+      border: 1px solid red; 
+      margin: 0 auto; 
+  }
+  td {
+      padding: 10px; 
+      text-align: center; 
+  }
+  form{
+    text-decoration: none;
+    color:white;
+  }
